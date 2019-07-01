@@ -1,0 +1,92 @@
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\KMeans\bin\Debug\KMeans.exe.config
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\KMeans\bin\Debug\KMeans.exe
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\KMeans\bin\Debug\KMeans.pdb
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\KMeans\bin\Debug\EPPlus.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.csprojAssemblyReference.cache
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.Kmeans_gomcum.resources
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.frm_DocDuLieu.resources
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.Properties.Resources.resources
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.csproj.GenerateResource.cache
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.csproj.CoreCompileInputs.cache
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.csproj.CopyComplete
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.exe
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.pdb
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.frm_PhanCum.resources
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SuaGiaoDien\SourceCode_PhanCumSinhVien\KMeans\bin\Debug\KMeans.exe.config
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SuaGiaoDien\SourceCode_PhanCumSinhVien\KMeans\bin\Debug\KMeans.exe
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SuaGiaoDien\SourceCode_PhanCumSinhVien\KMeans\bin\Debug\KMeans.pdb
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SuaGiaoDien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.Kmeans_gomcum.resources
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SuaGiaoDien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.frm_DocDuLieu.resources
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SuaGiaoDien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.frm_PhanCum.resources
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SuaGiaoDien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.Properties.Resources.resources
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SuaGiaoDien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.csproj.GenerateResource.cache
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SuaGiaoDien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.csproj.CoreCompileInputs.cache
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SuaGiaoDien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.csproj.CopyComplete
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SuaGiaoDien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.exe
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SuaGiaoDien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.pdb
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SuaGiaoDien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\SuaGiaoDienv5\SuaGiaoDien\SourceCode_PhanCumSinhVien\KMeans\bin\Debug\KMeans.exe.config
+C:\Users\USER\Downloads\SuaGiaoDienv5\SuaGiaoDien\SourceCode_PhanCumSinhVien\KMeans\bin\Debug\KMeans.exe
+C:\Users\USER\Downloads\SuaGiaoDienv5\SuaGiaoDien\SourceCode_PhanCumSinhVien\KMeans\bin\Debug\KMeans.pdb
+C:\Users\USER\Downloads\SuaGiaoDienv5\SuaGiaoDien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\SuaGiaoDienv5\SuaGiaoDien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.Kmeans_gomcum.resources
+C:\Users\USER\Downloads\SuaGiaoDienv5\SuaGiaoDien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.frm_DocDuLieu.resources
+C:\Users\USER\Downloads\SuaGiaoDienv5\SuaGiaoDien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.frm_PhanCum.resources
+C:\Users\USER\Downloads\SuaGiaoDienv5\SuaGiaoDien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.Properties.Resources.resources
+C:\Users\USER\Downloads\SuaGiaoDienv5\SuaGiaoDien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\SuaGiaoDienv5\SuaGiaoDien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\SuaGiaoDienv5\SuaGiaoDien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.csproj.CopyComplete
+C:\Users\USER\Downloads\SuaGiaoDienv5\SuaGiaoDien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.exe
+C:\Users\USER\Downloads\SuaGiaoDienv5\SuaGiaoDien\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.pdb
+C:\Users\USER\Desktop\SourceCode_PhanCumSinhVien\KMeans\bin\Debug\KMeans.exe.config
+C:\Users\USER\Desktop\SourceCode_PhanCumSinhVien\KMeans\bin\Debug\KMeans.exe
+C:\Users\USER\Desktop\SourceCode_PhanCumSinhVien\KMeans\bin\Debug\KMeans.pdb
+C:\Users\USER\Desktop\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.Kmeans_gomcum.resources
+C:\Users\USER\Desktop\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.frm_DocDuLieu.resources
+C:\Users\USER\Desktop\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.frm_PhanCum.resources
+C:\Users\USER\Desktop\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.Properties.Resources.resources
+C:\Users\USER\Desktop\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.csproj.CopyComplete
+C:\Users\USER\Desktop\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.exe
+C:\Users\USER\Desktop\SourceCode_PhanCumSinhVien\KMeans\obj\Debug\KMeans.pdb
+E:\DO_AN\PhanCumHocSinh\KMeans\bin\Debug\KMeans.exe.config
+E:\DO_AN\PhanCumHocSinh\KMeans\bin\Debug\KMeans.exe
+E:\DO_AN\PhanCumHocSinh\KMeans\bin\Debug\KMeans.pdb
+E:\DO_AN\PhanCumHocSinh\KMeans\obj\Debug\KMeans.csprojAssemblyReference.cache
+E:\DO_AN\PhanCumHocSinh\KMeans\obj\Debug\KMeans.Kmeans_gomcum.resources
+E:\DO_AN\PhanCumHocSinh\KMeans\obj\Debug\KMeans.frm_DocDuLieu.resources
+E:\DO_AN\PhanCumHocSinh\KMeans\obj\Debug\KMeans.frm_PhanCum.resources
+E:\DO_AN\PhanCumHocSinh\KMeans\obj\Debug\KMeans.Properties.Resources.resources
+E:\DO_AN\PhanCumHocSinh\KMeans\obj\Debug\KMeans.csproj.GenerateResource.cache
+E:\DO_AN\PhanCumHocSinh\KMeans\obj\Debug\KMeans.csproj.CoreCompileInputs.cache
+E:\DO_AN\PhanCumHocSinh\KMeans\obj\Debug\KMeans.csproj.CopyComplete
+E:\DO_AN\PhanCumHocSinh\KMeans\obj\Debug\KMeans.exe
+E:\DO_AN\PhanCumHocSinh\KMeans\obj\Debug\KMeans.pdb
+C:\Users\USER\Desktop\PhanCumHocSinh\PhanCumHocSinh\KMeans\bin\Debug\KMeans.exe.config
+C:\Users\USER\Desktop\PhanCumHocSinh\PhanCumHocSinh\KMeans\bin\Debug\KMeans.exe
+C:\Users\USER\Desktop\PhanCumHocSinh\PhanCumHocSinh\KMeans\bin\Debug\KMeans.pdb
+C:\Users\USER\Desktop\PhanCumHocSinh\PhanCumHocSinh\KMeans\obj\Debug\KMeans.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\PhanCumHocSinh\PhanCumHocSinh\KMeans\obj\Debug\KMeans.Kmeans_gomcum.resources
+C:\Users\USER\Desktop\PhanCumHocSinh\PhanCumHocSinh\KMeans\obj\Debug\KMeans.frm_DocDuLieu.resources
+C:\Users\USER\Desktop\PhanCumHocSinh\PhanCumHocSinh\KMeans\obj\Debug\KMeans.frm_PhanCum.resources
+C:\Users\USER\Desktop\PhanCumHocSinh\PhanCumHocSinh\KMeans\obj\Debug\KMeans.Properties.Resources.resources
+C:\Users\USER\Desktop\PhanCumHocSinh\PhanCumHocSinh\KMeans\obj\Debug\KMeans.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\PhanCumHocSinh\PhanCumHocSinh\KMeans\obj\Debug\KMeans.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\PhanCumHocSinh\PhanCumHocSinh\KMeans\obj\Debug\KMeans.csproj.CopyComplete
+C:\Users\USER\Desktop\PhanCumHocSinh\PhanCumHocSinh\KMeans\obj\Debug\KMeans.exe
+C:\Users\USER\Desktop\PhanCumHocSinh\PhanCumHocSinh\KMeans\obj\Debug\KMeans.pdb
+C:\Users\USER\Desktop\DOAN\PhanCumHocSinh\PhanCumHocSinh\KMeans\bin\Debug\KMeans.exe.config
+C:\Users\USER\Desktop\DOAN\PhanCumHocSinh\PhanCumHocSinh\KMeans\bin\Debug\KMeans.exe
+C:\Users\USER\Desktop\DOAN\PhanCumHocSinh\PhanCumHocSinh\KMeans\bin\Debug\KMeans.pdb
+C:\Users\USER\Desktop\DOAN\PhanCumHocSinh\PhanCumHocSinh\KMeans\obj\Debug\KMeans.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\DOAN\PhanCumHocSinh\PhanCumHocSinh\KMeans\obj\Debug\KMeans.Kmeans_gomcum.resources
+C:\Users\USER\Desktop\DOAN\PhanCumHocSinh\PhanCumHocSinh\KMeans\obj\Debug\KMeans.frm_DocDuLieu.resources
+C:\Users\USER\Desktop\DOAN\PhanCumHocSinh\PhanCumHocSinh\KMeans\obj\Debug\KMeans.frm_PhanCum.resources
+C:\Users\USER\Desktop\DOAN\PhanCumHocSinh\PhanCumHocSinh\KMeans\obj\Debug\KMeans.Properties.Resources.resources
+C:\Users\USER\Desktop\DOAN\PhanCumHocSinh\PhanCumHocSinh\KMeans\obj\Debug\KMeans.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\DOAN\PhanCumHocSinh\PhanCumHocSinh\KMeans\obj\Debug\KMeans.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\DOAN\PhanCumHocSinh\PhanCumHocSinh\KMeans\obj\Debug\KMeans.csproj.CopyComplete
+C:\Users\USER\Desktop\DOAN\PhanCumHocSinh\PhanCumHocSinh\KMeans\obj\Debug\KMeans.exe
+C:\Users\USER\Desktop\DOAN\PhanCumHocSinh\PhanCumHocSinh\KMeans\obj\Debug\KMeans.pdb
